@@ -23,7 +23,7 @@
 
 ## Запуск локально
 
-   git clone <(https://github.com/Esfir-pixel/nextgram-practice)>
+   git clone https://github.com/Esfir-pixel/nextgram-practice.git
    cd nextgram
    
 
