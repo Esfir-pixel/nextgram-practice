@@ -30,4 +30,4 @@
 ## Атрибуция
 
 Изначальная идея структуры проекта (parallel routes для модалок) — из официального
-примера Next.js: [vercel/nextgram](https://github.com/vercel/nextgram).
+примера Next.js: [vercel/nextgram]( https://github.com/vercel/nextgram ).
