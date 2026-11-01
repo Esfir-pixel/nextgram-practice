@@ -23,12 +23,9 @@
 
 ## Запуск локально
 
-1. Клонируй репозиторий:
-
-   ```bash
-   git clone <URL-твоего-репозитория>
+   git clone <(https://github.com/Esfir-pixel/nextgram-practice)>
    cd nextgram
-   ```
+   
 
 ## Атрибуция
 
